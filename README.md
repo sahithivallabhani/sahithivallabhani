@@ -16,7 +16,7 @@ A highly motivated and curious second-year B.Tech Computer Science student with 
 SRKR ENGINEERING COLLEGE, Bhimavaram, Andhra Pradesh  
 CGPA: 9.02/10.0 (Average over 5 semesters)
 
-
+*INTERMEDIATE (MPC)* (2021 – 2023)  
 TIRUMALA JUNIOR COLLEGE, Rajamahendravaram, Andhra Pradesh  
 Percentage: 96.3%
 
