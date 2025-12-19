@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sahithi V
 
-
+## About Me
 
 A highly motivated and curious second-year B.Tech Computer Science student with exceptional academic performance (CGPA: 9.08/10.0) and strong foundation in full-stack development, database management, and algorithmic problem-solving. Passionate about learning new technologies and applying knowledge to real-world problems through innovative software solutions.
 
