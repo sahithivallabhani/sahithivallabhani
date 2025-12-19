@@ -32,7 +32,7 @@ Percentage: 96.3%
 - Developed a gardening plants e-commerce website with user login, product listings, and cart features
 - Created an admin panel to manage plant inventory, view orders, and handle user queries
 - Designed a secure database for storing product info, user data, and order details
-- *Tech Stack:* Full Stack (MERN), Database Management
+
 
 ### 🎮 Responsive Matching Card Game
 - Built a card matching game using HTML, CSS, and JavaScript with responsive design and flip logic
