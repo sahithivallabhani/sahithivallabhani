@@ -10,7 +10,7 @@ A highly motivated and curious second-year B.Tech Computer Science student with 
 - 📫 How to reach me *vallabhanisahithivallabhanisah@gmail.com*
 - 📍 Based in *Bhimavaram, Andhra Pradesh, India*
 
-## 🎓 Education
+
 
  *BACHELOR OF TECHNOLOGY, COMPUTER SCIENCE AND ENGINEERING* (2023 – 2027) 
 SRKR ENGINEERING COLLEGE, Bhimavaram, Andhra Pradesh  
