@@ -39,7 +39,7 @@ Percentage: 96.3%
 - Added match detection, smooth transitions, and mobile-friendly layout using media queries
 - *Tech Stack:* HTML5, CSS3, JavaScript, Responsive Design
 
-## 🛠 Technical Skills
+
 
 ### Programming Languages
 <p align="left">
