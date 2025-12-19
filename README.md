@@ -20,6 +20,7 @@ CGPA: 9.02/10.0 (Average over 5 semesters)
 TIRUMALA JUNIOR COLLEGE, Rajamahendravaram, Andhra Pradesh  
 Percentage: 96.3%
 
+## 🚀 Featured Projects
 
 ### 🎬 React Movie Search Application
 - Built a responsive movie search app with filtering, sorting, and real-time API integration
