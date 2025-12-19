@@ -12,7 +12,7 @@ A highly motivated and curious second-year B.Tech Computer Science student with 
 
 ## 🎓 Education
 
-*BACHELOR OF TECHNOLOGY, COMPUTER SCIENCE AND ENGINEERING* (2023 – 2027)  
+ 
 SRKR ENGINEERING COLLEGE, Bhimavaram, Andhra Pradesh  
 CGPA: 9.08/10.0 (Average over 4 semesters)
 
