@@ -6,7 +6,7 @@ A highly motivated and curious second-year B.Tech Computer Science student with 
 
 - 🔭 I'm currently working on *Full-Stack Web Development Projects*
 - 🌱 I'm currently learning *Advanced React.js and Node.js*
-- 
+- 👯 I'm looking to collaborate on *Web Development and Database Projects*
 - 📫 How to reach me *vallabhanisahithivallabhanisah@gmail.com*
 - 📍 Based in *Bhimavaram, Andhra Pradesh, India*
 
