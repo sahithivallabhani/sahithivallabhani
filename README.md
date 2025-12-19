@@ -4,7 +4,7 @@
 
 A highly motivated and curious second-year B.Tech Computer Science student with exceptional academic performance (CGPA: 9.08/10.0) and strong foundation in full-stack development, database management, and algorithmic problem-solving. Passionate about learning new technologies and applying knowledge to real-world problems through innovative software solutions.
 
-- 🔭 I'm currently working on *Full-Stack Web Development Projects*
+- 
 - 🌱 I'm currently learning *Advanced React.js and Node.js*
 - 👯 I'm looking to collaborate on *Web Development and Database Projects*
 - 📫 How to reach me *vallabhanisahithivallabhanisah@gmail.com*
