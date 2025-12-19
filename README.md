@@ -74,7 +74,7 @@ Percentage: 96.3%
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="material-ui" width="40" height="40"/>
   </a>
-</p>
+
 
 ### Backend Development
 <p align="left">
