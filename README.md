@@ -37,7 +37,7 @@ Percentage: 96.3%
 ### 🎮 Responsive Matching Card Game
 - Built a card matching game using HTML, CSS, and JavaScript with responsive design and flip logic
 - Added match detection, smooth transitions, and mobile-friendly layout using media queries
-
+- *Tech Stack:* HTML5, CSS3, JavaScript, Responsive Design
 
 ## 🛠 Technical Skills
 
