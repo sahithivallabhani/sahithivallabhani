@@ -23,7 +23,7 @@ Percentage: 96.3%
 ## 🚀 Featured Projects
 
 ### 🎬 React Movie Search Application
-- Built a responsive movie search app with filtering, sorting, and real-time API integration
+
 - Added favorites feature with persistent local storage and smooth UX
 - Enabled dynamic sorting by release date, rating, and popularity with optimized rendering
 - *Tech Stack:* React.js, JavaScript, CSS3, API Integration
